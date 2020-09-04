@@ -1,4 +1,8 @@
-# Hi there 👋, I'm Ted!
+# Hi there 👋, I'm Ted! 
+
+I'm a code geek 🤓 and open source enthusiast with a day job as a professor in [Industrial and Systems Engineering](https://ise.lehigh.edu). I'm the technical lead for the [COIN-OR Foundation](https://github.com/coin-or) and the director of the [Laboratory for Computational Optimization Research @ Lehigh](https://coral.ise.lehigh.edu). I've spent two decades developing and maintaining many of the open source packages in [COIN-OR](https://github.com/coin-or). If you appreciate the existence of high-quality, open source solvers, you can [buy me a 🍺](https://github.com/sponsors/tkralphs)! Work and life pull me in a lot of directions, but I'm always looking for a way to show some more ❤️ to my open source projects, making the world a better place, one line of code at a time. To learn more about me, check me out on [the Internets](https://coral.ie.lehigh.edu/~ted).
+
+<a href="https://www.coin-or.org"> <img src="https://www.coin-or.org/wordpress/wp-content/uploads/2014/08/COINOR.png"> </a> <a href="https://coral.ise.lehigh.edu"> <img src="https://coral.ise.lehigh.edu/wp-content/images/logo.png"></a>
 
 <!--
 **tkralphs/tkralphs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
